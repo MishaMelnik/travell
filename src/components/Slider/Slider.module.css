@@ -1,0 +1,29 @@
+.slider{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+
+    opacity: 0;
+    transform: scale(0.85);
+    transition: 2s;
+}
+.zoom{
+    opacity: 1;
+    transform: scale(1);
+    transition: 2s;
+}
+.image{
+    width: 60%;
+}
+.content{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+}
+.title{
+    text-align: center;
+}
