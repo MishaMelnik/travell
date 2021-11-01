@@ -9,20 +9,21 @@
     align-items: center;
     padding: 0px 30px 0px 30px;
     margin-bottom: -70px;
+    z-index: 5;
 }
-.logo{
+.navbar_logo{
     color: white;
     font-family: 'MonteCarlo', cursive;
     font-size: 2.5rem;
 }
-.list{
+.navbar_list{
     display: flex;
     list-style: none;
 }
-.item{
+.navbar_item{
     white-space: nowrap;
 }
-.link{
+.navbar_link{
     font-size: 0.85rem;
     text-decoration:none;
     color: white;
@@ -34,7 +35,7 @@
     border-color: transparent;
     transition: 250ms;
 }
-.link:hover{
+.navbar_link:hover{
     border-color: white;
     transition: 250ms;
 }

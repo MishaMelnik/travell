@@ -7,15 +7,15 @@
     transform: scale(0.85);
     transition: 2s;
 }
-.zoom{
+.slider--zoom{
     opacity: 1;
     transform: scale(1);
     transition: 2s;
 }
-.image{
+.slider_image{
     width: 60%;
 }
-.content{
+.slider_content{
     flex: 1;
     display: flex;
     flex-direction: column;
@@ -24,6 +24,6 @@
     padding: 20px;
     text-align: center;
 }
-.title{
+.slider_title{
     text-align: center;
 }
