@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/travell/static/css/main.77d71969.chunk.css",
+    "main.js": "/travell/static/js/main.2cb3bf0f.chunk.js",
+    "main.js.map": "/travell/static/js/main.2cb3bf0f.chunk.js.map",
+    "runtime-main.js": "/travell/static/js/runtime-main.6239e988.js",
+    "runtime-main.js.map": "/travell/static/js/runtime-main.6239e988.js.map",
+    "static/js/2.e4179b1b.chunk.js": "/travell/static/js/2.e4179b1b.chunk.js",
+    "static/js/2.e4179b1b.chunk.js.map": "/travell/static/js/2.e4179b1b.chunk.js.map",
+    "static/js/3.5f14b8f3.chunk.js": "/travell/static/js/3.5f14b8f3.chunk.js",
+    "static/js/3.5f14b8f3.chunk.js.map": "/travell/static/js/3.5f14b8f3.chunk.js.map",
+    "index.html": "/travell/index.html",
+    "static/css/main.77d71969.chunk.css.map": "/travell/static/css/main.77d71969.chunk.css.map",
+    "static/js/2.e4179b1b.chunk.js.LICENSE.txt": "/travell/static/js/2.e4179b1b.chunk.js.LICENSE.txt",
+    "static/media/travel-2.ae8754a3.jpg": "/travell/static/media/travel-2.ae8754a3.jpg",
+    "static/media/travel-4.debb0a3f.jpg": "/travell/static/media/travel-4.debb0a3f.jpg",
+    "static/media/travel-5.90380a65.jpg": "/travell/static/media/travel-5.90380a65.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6239e988.js",
+    "static/js/2.e4179b1b.chunk.js",
+    "static/css/main.77d71969.chunk.css",
+    "static/js/main.2cb3bf0f.chunk.js"
+  ]
+}
